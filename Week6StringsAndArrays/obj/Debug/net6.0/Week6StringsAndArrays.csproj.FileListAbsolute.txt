@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\Week6StringsAndArrays.exe
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\Week6StringsAndArrays.deps.json
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\Week6StringsAndArrays.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\Week6StringsAndArrays.dll
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\ref\Week6StringsAndArrays.dll
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net6.0\Week6StringsAndArrays.pdb
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.dll
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\ref\Week6StringsAndArrays.dll
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.pdb
+C:\Users\BENAHMAD\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net6.0\Week6StringsAndArrays.genruntimeconfig.cache
